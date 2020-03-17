@@ -4,6 +4,13 @@ title: About
 permalink: /about/
 ---
 
+## Short Bio
+I am currently a second-year Ph.D. student in Business Data Science at the Martin Tuchman School of Management in New Jersey Institute of Technology. My research interests focus on developing data mining and machine learning techniques for healthcare applications.
+
+Prior to this, I worked as a Data Category Manager for Standard Media Index (SMI) for three years.
+
+I received my Master of Science degree in Marketing Intelligence from Fordham University Gabelli School of Business and Bachelor of Science degree in Business Administration from New York Institute of Technology.
+
 test [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
