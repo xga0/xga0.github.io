@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## Short Bio
 I am currently a second-year Ph.D. student in [Business Data Science at the Martin Tuchman School of Management in New Jersey Institute of Technology](https://management.njit.edu/phd-business-data-science-0). My research interests focus on developing data mining and machine learning techniques for healthcare applications.
 
 Prior to this, I worked as a Data Category Manager for [Standard Media Index (SMI)](https://www.standardmediaindex.com) for three years.
