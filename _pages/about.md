@@ -14,5 +14,5 @@ I’m currently seeking a full-time DS/MLE/Applied Scientist position.
 Experience
 ------
 - Data Scientist Intern, Amazon (May 2022 - September 2022)
-- AI Research Associate, UMD Center for Health Information & Decision Systems (June 2021 - August 2021)
+- AI Research Associate, CHIDS, UMD (June 2021 - August 2021)
 - Data Category Manager, Standard Media Index (October 2015 - August 2018)
