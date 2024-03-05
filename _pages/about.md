@@ -33,3 +33,10 @@ Teaching Experience
 - Teaching Assistant, New Jersey Institute of Technology
     - Teaching Assistant of MIS 385 Database Systems for Managers (Fall 2019)
     - Lab Assistant at NJIT Business Analytics Lab (Spring 2019)
+ 
+Publications
+------
+1. Weiting Gao, **Xiangyu Gao**, Wenjin Chen, David J Foran, Yi Chen, BioReX: Biomarker Information Extraction Inspired by Aspect-Based Sentiment Analysis, 2024 Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024 [[code]](https://github.com/NJIT-AI-in-Healthcare/Pathology-Biomarker-Information-Extraction)
+2. Jinhe Shi, **Xiangyu Gao**, William C Kinsman, Chenyu Ha, Guodong Gordon Gao, Yi Chen, DI++: A Deep Learning System for Patient Condition Identification in Clinical Notes, Artificial Intelligence in Medicine, 2022
+3. Jinhe Shi, **Xiangyu Gao**, Chenyu Ha, Yage Wang, Guodong Gao, Yi Chen, Patient ADE Risk Prediction through Hierarchical Time-Aware Neural Network Using Claim Codes, 2020 IEEE International Conference on Big Data (Big Data), 2020
+4. **Xiangyu Gao**, Jinhe Shi, Wenjin Chen, Nancy Sazo, Huiqi Chu, Evita Sadimin, David J Foran, Yi Chen, CBEx: A Hybrid Approach for Cancer Biomarker Extraction, 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2020
