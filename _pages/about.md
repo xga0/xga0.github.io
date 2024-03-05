@@ -27,9 +27,9 @@ Research Experience
 
 Teaching Experience
 ------
-- Instructor:
+- Instructor, New Jersey Institute of Technology
     - Instructor of MIS 363 Project Management for Managers (Summer 2020)
     - Instructor of MIS 445 Decision Support Tool and Technology for Managers (Spring 2020)
-- Teaching Assistant:
+- Teaching Assistant, New Jersey Institute of Technology
     - Teaching Assistant of MIS 385 Database Systems for Managers (Fall 2019)
     - Lab Assistant at NJIT Business Analytics Lab (Spring 2019)
