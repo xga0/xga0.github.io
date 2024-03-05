@@ -24,3 +24,12 @@ Research Experience
     - Led the design of a novel hybrid NLP approach and the development of a prototype system for extracting cancer biomarkers from free-text pathology reports
     - Developed a hierarchical time-aware neural network for personalized risk prediction of adverse drug events using claims data
     - Contributed to the implementation of an advanced deep learning model for extracting patient conditions from clinical notes
+
+Teaching Experience
+------
+- Instructor:
+    - Instructor of MIS 363 Project Management for Managers (Summer 2020)
+    - Instructor of MIS 445 Decision Support Tool and Technology for Managers (Spring 2020)
+- Teaching Assistant:
+    - Teaching Assistant of MIS 385 Database Systems for Managers (Fall 2019)
+    - Lab Assistant at NJIT Business Analytics Lab (Spring 2019)
