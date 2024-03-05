@@ -40,3 +40,8 @@ Publications
 2. Jinhe Shi, **Xiangyu Gao**, William C Kinsman, Chenyu Ha, Guodong Gordon Gao, Yi Chen, DI++: A Deep Learning System for Patient Condition Identification in Clinical Notes, Artificial Intelligence in Medicine, 2022
 3. Jinhe Shi, **Xiangyu Gao**, Chenyu Ha, Yage Wang, Guodong Gao, Yi Chen, Patient ADE Risk Prediction through Hierarchical Time-Aware Neural Network Using Claim Codes, 2020 IEEE International Conference on Big Data (Big Data), 2020
 4. **Xiangyu Gao**, Jinhe Shi, Wenjin Chen, Nancy Sazo, Huiqi Chu, Evita Sadimin, David J Foran, Yi Chen, CBEx: A Hybrid Approach for Cancer Biomarker Extraction, 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2020
+
+Working Papers
+------
+1. Xiangyu Gao, Jinhe Shi, Junjie Luo, Guodong (Gordon) Gao, and Yi Chen, A Hybrid Deep Learning Model for Patient Reachability Prediction
+2. Xiangyu Gao, Jinhe Shi, Guodong (Gordon) Gao, and Yi Chen, Personalized Phone Call Time Prediction Using Graph Embedding
