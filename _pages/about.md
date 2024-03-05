@@ -43,5 +43,5 @@ Publications
 
 Working Papers
 ------
-1. Xiangyu Gao, Jinhe Shi, Junjie Luo, Guodong (Gordon) Gao, and Yi Chen, A Hybrid Deep Learning Model for Patient Reachability Prediction
-2. Xiangyu Gao, Jinhe Shi, Guodong (Gordon) Gao, and Yi Chen, Personalized Phone Call Time Prediction Using Graph Embedding
+1. **Xiangyu Gao**, Jinhe Shi, Junjie Luo, Guodong (Gordon) Gao, and Yi Chen, A Hybrid Deep Learning Model for Patient Reachability Prediction
+2. **Xiangyu Gao**, Jinhe Shi, Guodong (Gordon) Gao, and Yi Chen, Personalized Phone Call Time Prediction Using Graph Embedding
