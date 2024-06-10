@@ -12,7 +12,8 @@ title                    : 'Xiangyu "Sean" Gao'
 title_separator          : "-"
 name                     : &name 'Xiangyu "Sean" Gao'
 description              : &description "personal description"
-url                      : https://xga0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://xga0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "seangao.ca"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xga0/xga0.github.io"
 
