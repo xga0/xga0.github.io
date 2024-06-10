@@ -26,8 +26,8 @@ author:
   name             : 'Xiangyu "Sean" Gao'
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Data Science"
-  location         : "Earth"
-  employer         : "New Jersey Institute of Technology"
+  # location         : "Earth"
+  # employer         : "New Jersey Institute of Technology"
   uri              : # URL
   email            : "seangao91@gmail.com" 
 
