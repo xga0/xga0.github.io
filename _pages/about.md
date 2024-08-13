@@ -41,7 +41,7 @@ Teaching Experience
 Publications
 ------
 1. Weiting Gao, **Xiangyu Gao**, Yi Chen, Compositional and Hierarchical Semantic Learning Model for Hospital Readmission Prediction, 2024 33rd ACM International Conference on
-Information and Knowledge Management (CIKM), 2024
+Information and Knowledge Management (CIKM), 2024 [[code]](https://github.com/NJIT-AI-in-Healthcare/Hospital-Readmission-Prediction)
 2. Weiting Gao, **Xiangyu Gao**, Wenjin Chen, David J Foran, Yi Chen, BioReX: Biomarker Information Extraction Inspired by Aspect-Based Sentiment Analysis, 2024 Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024 [[code]](https://github.com/NJIT-AI-in-Healthcare/Pathology-Biomarker-Information-Extraction)
 3. Jinhe Shi, **Xiangyu Gao**, William C Kinsman, Chenyu Ha, Guodong Gordon Gao, Yi Chen, DI++: A Deep Learning System for Patient Condition Identification in Clinical Notes, Artificial Intelligence in Medicine, 2022
 4. Jinhe Shi, **Xiangyu Gao**, Chenyu Ha, Yage Wang, Guodong Gao, Yi Chen, Patient ADE Risk Prediction through Hierarchical Time-Aware Neural Network Using Claim Codes, 2020 IEEE International Conference on Big Data (Big Data), 2020
