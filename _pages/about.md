@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Xiangyu (you can also call me Sean). I recently received my PhD in Data Science from New Jersey Institute of Technology, advised by [Professor Yi Chen](https://web.njit.edu/~ychen/). My doctoral research interest focuses on developing end-to-end machine learning pipelines for the healthcare industry. My doctoral dissertation is about using AI techniques to improve the effectiveness and efficiency of patient engagement. In the summer of 2022, I interned as a Data Scientist at [Amazon’s Supply Chain Optimization Technologies (SCOT)](https://www.amazon.science/tag/supply-chain-optimization-technologies). In the summer of 2021, I worked as an AI Research Associate at [the Center for Health Information & Decision Systems (CHIDS), University of Maryland](https://www.rhsmith.umd.edu/centers/chids).
+Welcome! I'm Xiangyu, also known as Sean. I recently earned my PhD in Data Science from the New Jersey Institute of Technology, under the guidance of [Professor Yi Chen](https://people.njit.edu/profile/ychen). My doctoral research focused on developing end-to-end machine learning pipelines for the healthcare industry, with a dissertation centered on using AI techniques to improve the effectiveness and efficiency of patient engagement. 
 
-I received my Master of Science in [STEM-designated Marketing Intelligence](https://www.fordham.edu/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/ms-programs/marketing-intelligence) from Fordham University Gabelli School of Business and my Bachelor of Science in [Business Administration](https://www.nyit.edu/degrees/international_business_bs) from New York Institute of Technology.
+In the summer of 2022, I interned as a Data Scientist at [Amazon's Supply Chain Optimization Technologies (SCOT)](https://www.amazon.science/tag/supply-chain-optimization-technologies). Previously, in the summer of 2021, I served as an AI Research Associate at [the Center for Health Information & Decision Systems (CHIDS) at the University of Maryland](https://www.rhsmith.umd.edu/news/chids-transforming-health-care-through-many-partners).
+
+I hold a Master of Science in [Marketing Intelligence (STEM-designated) from Fordham University's Gabelli School of Business](https://www.fordham.edu/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/ms-programs/marketing-intelligence) and a Bachelor of Science in [Business Administration from the New York Institute of Technology](https://www.nyit.edu/degrees/international_business_bs).
 
 I’m currently seeking a full-time DS/MLE/Applied Scientist position.
 
