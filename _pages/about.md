@@ -24,6 +24,7 @@ Experience
 Research Experience
 ------
 - Research Assistant, New Jersey Institute of Technology
+    - Led a project to develop a knowledge graph enhanced thread recommender system for online health forums
     - Led a project to increase the likelihood of having patients answer a phone call from the healthcare provider through machine learning and deep learning techniques, including a graph-based call time prediction model and a hybrid patient reachability prediction model
     - Led the design of a novel hybrid NLP approach and the development of a prototype system for extracting cancer biomarkers from free-text pathology reports
     - Developed a hierarchical time-aware neural network for personalized risk prediction of adverse drug events using claims data
@@ -35,6 +36,7 @@ Teaching Experience
     - Instructor of MIS 363 Project Management for Managers (Summer 2020)
     - Instructor of MIS 445 Decision Support Tool and Technology for Managers (Spring 2020)
 - Teaching Assistant, New Jersey Institute of Technology
+    - Technical Support (primarily Microsoft Project) of MIS 363 Project Management for Managers (Spring 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024)
     - Teaching Assistant of MIS 385 Database Systems for Managers (Fall 2019)
     - Lab Assistant at NJIT Business Analytics Lab (Spring 2019)
  
