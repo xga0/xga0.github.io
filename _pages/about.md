@@ -51,5 +51,10 @@ Information and Knowledge Management (CIKM), 2024 [[code]](https://github.com/NJ
 
 Working Papers
 ------
-1. **Xiangyu Gao**, Jinhe Shi, Junjie Luo, Guodong (Gordon) Gao, and Yi Chen, A Hybrid Deep Learning Model for Patient Reachability Prediction
+1. **Xiangyu Gao**, Jinhe Shi, Junjie Luo, Guodong (Gordon) Gao, and Yi Chen, Patient Reachability Prediction Through a Hybrid Deep Learning Model
 2. **Xiangyu Gao**, Jinhe Shi, Guodong (Gordon) Gao, and Yi Chen, Personalized Phone Call Time Prediction Using Graph Embedding
+
+Currently Reading
+------
+The Hero of Ages (Mistborn, #3) by Brandon Sanderson [[Goodreads]](https://www.goodreads.com/book/show/2767793-the-hero-of-ages)
+A Good Girl's Guide to Murder Series by Holly Jackson [[Goodreads]](https://www.goodreads.com/series/270081-a-good-girl-s-guide-to-murder)
