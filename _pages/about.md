@@ -56,5 +56,5 @@ Working Papers
 
 Currently Reading
 ------
-The Hero of Ages (Mistborn, #3) by Brandon Sanderson [[Goodreads]](https://www.goodreads.com/book/show/2767793-the-hero-of-ages)
-A Good Girl's Guide to Murder Series by Holly Jackson [[Goodreads]](https://www.goodreads.com/series/270081-a-good-girl-s-guide-to-murder)
+- The Hero of Ages (Mistborn, #3) by Brandon Sanderson [[Goodreads]](https://www.goodreads.com/book/show/2767793-the-hero-of-ages)
+- A Good Girl's Guide to Murder Series by Holly Jackson [[Goodreads]](https://www.goodreads.com/series/270081-a-good-girl-s-guide-to-murder)
