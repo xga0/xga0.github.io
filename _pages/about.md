@@ -17,6 +17,7 @@ I’m currently seeking a full-time DS/MLE/Applied Scientist position.
 
 Experience
 ------
+- Machine Learning Engineer, Sunia Technology (August 2024 - Present)
 - Data Scientist Intern, Amazon (May 2022 - September 2022)
 - AI Research Associate, CHIDS, University of Maryland (June 2021 - August 2021)
 - Data Category Manager, Standard Media Index (October 2015 - August 2018)
