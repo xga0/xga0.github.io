@@ -56,4 +56,4 @@ Information and Knowledge Management (CIKM), 2024 [[code]](https://github.com/NJ
 
 Currently Reading
 ------
-[[Goodreads]]([https://www.goodreads.com/user/show/161994022-sean-gao)])
+[[Goodreads]]([https://www.goodreads.com/user/show/161994022-sean-gao])
