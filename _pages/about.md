@@ -13,7 +13,7 @@ In the summer of 2022, I interned as a Data Scientist at [Amazon's Supply Chain 
 
 I hold a Master of Science in [Marketing Intelligence (STEM-designated) from Fordham University's Gabelli School of Business](https://www.fordham.edu/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/ms-programs/marketing-intelligence) and a Bachelor of Science in [Business Administration from the New York Institute of Technology](https://www.nyit.edu/degrees/international_business_bs).
 
-I’m currently seeking a full-time DS/MLE/Applied Scientist position.
+<!--I’m currently seeking a full-time DS/MLE/Applied Scientist position.-->
 
 Experience
 ------
@@ -56,5 +56,4 @@ Information and Knowledge Management (CIKM), 2024 [[code]](https://github.com/NJ
 
 Currently Reading
 ------
-- The Hero of Ages (Mistborn, #3) by Brandon Sanderson [[Goodreads]](https://www.goodreads.com/book/show/2767793-the-hero-of-ages)
-- A Good Girl's Guide to Murder by Holly Jackson [[Goodreads]](https://www.goodreads.com/book/show/40916679-a-good-girl-s-guide-to-murder)
+[[Goodreads]]([https://www.goodreads.com/user/show/161994022-sean-gao)])
