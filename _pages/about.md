@@ -49,10 +49,10 @@ Information and Knowledge Management (CIKM), 2024 [[code]](https://github.com/NJ
 4. Jinhe Shi, **Xiangyu Gao**, Chenyu Ha, Yage Wang, Guodong Gao, Yi Chen, Patient ADE Risk Prediction through Hierarchical Time-Aware Neural Network Using Claim Codes, 2020 IEEE International Conference on Big Data (Big Data), 2020
 5. **Xiangyu Gao**, Jinhe Shi, Wenjin Chen, Nancy Sazo, Huiqi Chu, Evita Sadimin, David J Foran, Yi Chen, CBEx: A Hybrid Approach for Cancer Biomarker Extraction, 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2020
 
-Working Papers
-------
-1. **Xiangyu Gao**, Jinhe Shi, Junjie Luo, Guodong (Gordon) Gao, and Yi Chen, Patient Reachability Prediction Through a Hybrid Deep Learning Model
-2. **Xiangyu Gao**, Jinhe Shi, Guodong (Gordon) Gao, and Yi Chen, Personalized Phone Call Time Prediction Using Graph Embedding
+<!--Working Papers-->
+<!---------->
+<!--1. **Xiangyu Gao**, Jinhe Shi, Junjie Luo, Guodong (Gordon) Gao, and Yi Chen, Patient Reachability Prediction Through a Hybrid Deep Learning Model-->
+<!--2. **Xiangyu Gao**, Jinhe Shi, Guodong (Gordon) Gao, and Yi Chen, Personalized Phone Call Time Prediction Using Graph Embedding-->
 
 Currently Reading
 ------
