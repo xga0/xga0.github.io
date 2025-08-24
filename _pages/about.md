@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Xiangyu, also known as Sean. I recently earned my PhD in Data Science from the New Jersey Institute of Technology, under the guidance of [Professor Yi Chen](https://people.njit.edu/profile/ychen). My doctoral research focused on developing end-to-end machine learning pipelines for the healthcare industry, with a dissertation centered on using AI techniques to improve the effectiveness and efficiency of patient engagement. 
+Welcome! I’m Xiangyu (Sean). I hold a PhD in Data Science from the New Jersey Institute of Technology, where I worked under Professor Yi Chen. My doctoral research developed end-to-end machine learning pipelines for healthcare applications, with a focus on leveraging AI to improve patient engagement efficiency and outcomes.
 
-In the summer of 2022, I interned as a Data Scientist at [Amazon's Supply Chain Optimization Technologies (SCOT)](https://www.amazon.science/tag/supply-chain-optimization-technologies). Previously, in the summer of 2021, I served as an AI Research Associate at [the Center for Health Information & Decision Systems (CHIDS) at the University of Maryland](https://www.rhsmith.umd.edu/news/chids-transforming-health-care-through-many-partners).
+I have industry and research experience across both academia and large-scale technology organizations. In 2022, I interned as a Data Scientist at Amazon’s Supply Chain Optimization Technologies (SCOT). In 2021, I was an AI Research Associate at the Center for Health Information & Decision Systems (CHIDS), University of Maryland.
 
-I hold a Master of Science in [Marketing Intelligence (STEM-designated) from Fordham University's Gabelli School of Business](https://www.fordham.edu/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/ms-programs/marketing-intelligence) and a Bachelor of Science in [Business Administration from the New York Institute of Technology](https://www.nyit.edu/degrees/international_business_bs).
+Before pursuing my PhD, I earned an M.S. from Fordham University and a B.S. from the New York Institute of Technology, where I built a strong foundation in data science, analytics, and computational methods for large-scale business and information systems.
 
 <!--I’m currently seeking a full-time DS/MLE/Applied Scientist position.-->
 
