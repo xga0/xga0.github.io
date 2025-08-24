@@ -15,30 +15,19 @@ Before pursuing my PhD, I earned an M.S. from Fordham University and a B.S. from
 
 <!--I’m currently seeking a full-time DS/MLE/Applied Scientist position.-->
 
-Experience
-------
-- Data Scientist Intern, Amazon (May 2022 - September 2022)
-- AI Research Associate, CHIDS, University of Maryland (June 2021 - August 2021)
-- Data Category Manager, Standard Media Index (October 2015 - August 2018)
+<!--Experience-->
+<!---------->
+<!--- Data Scientist Intern, Amazon (May 2022 - September 2022)-->
+<!--- AI Research Associate, CHIDS, University of Maryland (June 2021 - August 2021)-->
+<!--- Data Category Manager, Standard Media Index (October 2015 - August 2018)-->
 
 Research Experience
 ------
-- Research Assistant, New Jersey Institute of Technology
-    - Led a project to develop a knowledge graph enhanced thread recommender system for online health forums
-    - Led a project to increase the likelihood of having patients answer a phone call from the healthcare provider through machine learning and deep learning techniques, including a graph-based call time prediction model and a hybrid patient reachability prediction model
-    - Led the design of a novel hybrid NLP approach and the development of a prototype system for extracting cancer biomarkers from free-text pathology reports
-    - Developed a hierarchical time-aware neural network for personalized risk prediction of adverse drug events using claims data
-    - Contributed to the implementation of an advanced deep learning model for extracting patient conditions from clinical notes
+As a Research Assistant at the New Jersey Institute of Technology, I led multiple projects applying machine learning, deep learning, and natural language processing to healthcare data. My work included developing a knowledge graph–enhanced thread recommender system for online health forums, designing graph-based and hybrid models to improve patient reachability and call-time prediction, and creating a hybrid NLP framework with a prototype system for extracting cancer biomarkers from pathology reports. I also developed a hierarchical time-aware neural network for personalized adverse drug event risk prediction using claims data, and contributed to advanced deep learning methods for extracting patient conditions from clinical notes.
 
 Teaching Experience
 ------
-- Instructor, New Jersey Institute of Technology
-    - Instructor of MIS 363 Project Management for Managers (Summer 2020)
-    - Instructor of MIS 445 Decision Support Tool and Technology for Managers (Spring 2020)
-- Teaching Assistant, New Jersey Institute of Technology
-    - Technical Support (primarily Microsoft Project) of MIS 363 Project Management for Managers (Spring 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024)
-    - Teaching Assistant of MIS 385 Database Systems for Managers (Fall 2019)
-    - Lab Assistant at NJIT Business Analytics Lab (Spring 2019)
+At the New Jersey Institute of Technology, I served as Instructor for courses in project management and decision support systems, and as Teaching Assistant for courses in project management, database systems, and business analytics. My responsibilities included full course instruction, technical support for project management software (Microsoft Project), and assisting with lab sessions in analytics and database technologies.
  
 <!--Publications-->
 <!---------->
