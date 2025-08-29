@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Sean 👋. I hold a PhD in Data Science 🎓 from the New Jersey Institute of Technology, where I worked under Professor Yi Chen. My doctoral research developed end-to-end machine learning pipelines for healthcare applications 🧬, with a focus on leveraging AI to improve patient engagement efficiency and outcomes.
+Welcome! I'm Sean 👋. I hold a PhD in Data Science 🎓 from the New Jersey Institute of Technology, where I worked under Professor Yi Chen. My doctoral research developed end-to-end machine learning pipelines for healthcare applications ❤️, with a focus on leveraging AI to improve patient engagement efficiency and outcomes.
 
 I have industry and research experience across both academia and large-scale technology organizations 💼. In 2022, I interned as a Data Scientist at Amazon's Supply Chain Optimization Technologies (SCOT) 📦. In 2021, I was an AI Research Associate at the Center for Health Information & Decision Systems (CHIDS), University of Maryland 🔬.
 
