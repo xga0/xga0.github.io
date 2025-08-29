@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m Xiangyu (Sean). I hold a PhD in Data Science from the New Jersey Institute of Technology, where I worked under Professor Yi Chen. My doctoral research developed end-to-end machine learning pipelines for healthcare applications, with a focus on leveraging AI to improve patient engagement efficiency and outcomes.
+Welcome! I'm Sean 👋. I hold a PhD in Data Science 🎓 from the New Jersey Institute of Technology, where I worked under Professor Yi Chen. My doctoral research developed end-to-end machine learning pipelines for healthcare applications 🧬, with a focus on leveraging AI to improve patient engagement efficiency and outcomes.
 
-I have industry and research experience across both academia and large-scale technology organizations. In 2022, I interned as a Data Scientist at Amazon’s Supply Chain Optimization Technologies (SCOT). In 2021, I was an AI Research Associate at the Center for Health Information & Decision Systems (CHIDS), University of Maryland.
+I have industry and research experience across both academia and large-scale technology organizations 💼. In 2022, I interned as a Data Scientist at Amazon's Supply Chain Optimization Technologies (SCOT) 📦. In 2021, I was an AI Research Associate at the Center for Health Information & Decision Systems (CHIDS), University of Maryland 🔬.
 
-Before pursuing my PhD, I earned an M.S. from Fordham University and a B.S. from the New York Institute of Technology, where I built a strong foundation in data science, analytics, and computational methods for large-scale business and information systems.
+Before pursuing my PhD, I earned an M.S. from Fordham University and a B.S. from the New York Institute of Technology 📚, where I built a strong foundation in data science, analytics, and computational methods for large-scale business and information systems.
 
 <!--I’m currently seeking a full-time DS/MLE/Applied Scientist position.-->
 
@@ -21,13 +21,13 @@ Before pursuing my PhD, I earned an M.S. from Fordham University and a B.S. from
 <!--- AI Research Associate, CHIDS, University of Maryland (June 2021 - August 2021)-->
 <!--- Data Category Manager, Standard Media Index (October 2015 - August 2018)-->
 
-Research Experience
+🔬 Research Experience
 ------
-As a Research Assistant at the New Jersey Institute of Technology, I led multiple projects applying machine learning, deep learning, and natural language processing to healthcare data. My work included developing a knowledge graph–enhanced thread recommender system for online health forums, designing graph-based and hybrid models to improve patient reachability and call-time prediction, and creating a hybrid NLP framework with a prototype system for extracting cancer biomarkers from pathology reports. I also developed a hierarchical time-aware neural network for personalized adverse drug event risk prediction using claims data, and contributed to advanced deep learning methods for extracting patient conditions from clinical notes.
+As a Research Assistant at the New Jersey Institute of Technology, I led multiple projects applying machine learning 🤖, deep learning, and natural language processing to healthcare data 📊. My work included developing a knowledge graph–enhanced thread recommender system for online health forums 💬, designing graph-based and hybrid models to improve patient reachability and call-time prediction 📞, and creating a hybrid NLP framework with a prototype system for extracting cancer biomarkers from pathology reports 🧬. I also developed a hierarchical time-aware neural network for personalized adverse drug event risk prediction using claims data ⚕️, and contributed to advanced deep learning methods for extracting patient conditions from clinical notes.
 
-Teaching Experience
+👨‍🏫 Teaching Experience
 ------
-At the New Jersey Institute of Technology, I served as Instructor for courses in project management and decision support systems, and as Teaching Assistant for courses in project management, database systems, and business analytics. My responsibilities included full course instruction, technical support for project management software (Microsoft Project), and assisting with lab sessions in analytics and database technologies.
+At the New Jersey Institute of Technology, I served as Instructor for courses in project management and decision support systems 📋, and as Teaching Assistant for courses in project management, database systems 🗄️, and business analytics 📈. My responsibilities included full course instruction, technical support for project management software (Microsoft Project) 💻, and assisting with lab sessions in analytics and database technologies.
  
 <!--Publications-->
 <!---------->
@@ -43,6 +43,6 @@ Information and Knowledge Management (CIKM), 2024 [[code]](https://github.com/NJ
 <!--1. **Xiangyu Gao**, Jinhe Shi, Junjie Luo, Guodong (Gordon) Gao, and Yi Chen, Patient Reachability Prediction Through a Hybrid Deep Learning Model-->
 <!--2. **Xiangyu Gao**, Jinhe Shi, Guodong (Gordon) Gao, and Yi Chen, Personalized Phone Call Time Prediction Using Graph Embedding-->
 
-Currently Reading
+📚 Currently Reading
 ------
 [Goodreads](https://www.goodreads.com/user/show/161994022-sean-gao)
